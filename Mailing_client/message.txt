@@ -1,0 +1,3 @@
+Wassup!
+
+This e-mail was sent by the Python Script!
